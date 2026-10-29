@@ -1,0 +1,10 @@
+# Model weights are downloaded automatically when needed; keep binaries out of Git.
+*.pt
+
+# Local machine notes can include personal paths and device details.
+SESSION.md
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
